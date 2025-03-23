@@ -177,10 +177,3 @@ from visualization import visualize_summary_stats
 visualize_summary_stats(result)
 ```
 
-## License
-
-[Your License Here]
-
-## Contributing
-
-Contributions welcome! Please feel free to submit a Pull Request.
